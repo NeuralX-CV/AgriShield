@@ -1,0 +1,7 @@
+Tomato___Late_blight___Early
+Tomato___Late_blight___Advanced
+Tomato___Leaf_Mold___Early
+Tomato___Leaf_Mold___Advanced
+Tomato___Bacterial_spot___Early
+Tomato___Bacterial_spot___Advanced
+Tomato___healthy
