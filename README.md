@@ -62,7 +62,7 @@ python3 -m pip install tflite-runtime
 3. Clone the Repository
 Clone this repository to your Raspberry Pi:
 
-git clone [https://github.com/your-username/plant-disease-detection.git](https://github.com/your-username/plant-disease-detection.git)
+git clone [https://github.com/NeuralX-CV/AgriShield.git](https://github.com/NeuralX-CV/AgriShield.git)
 cd plant-disease-detection
 
 🧠 Model Training
